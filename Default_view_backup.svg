@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="208.07112"
+   height="187.86807"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="aldinga_back.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-234.74221"
+     inkscape:cy="154.20288"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="329"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     transform="translate(-51.527931,-498.69699)">
+    <rect
+       ry="16.162441"
+       y="499.69699"
+       x="52.527931"
+       height="185.86807"
+       width="206.07112"
+       id="rect2995"
+       style="opacity:0.7093023;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:2"
+       inkscape:export-xdpi="191.61717"
+       inkscape:export-ydpi="191.61717" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.527931,-498.69699)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="57.85714"
+       y="530.21936"
+       id="text4212"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="191.61717"
+       inkscape:export-ydpi="191.61717"><tspan
+         sodipodi:role="line"
+         id="tspan4240"
+         x="57.85714"
+         y="530.21936">Relative </tspan><tspan
+         sodipodi:role="line"
+         id="tspan4242"
+         x="57.85714"
+         y="548.96936">Humidity:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4216"
+       y="580.93359"
+       x="58.57143"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="191.61717"
+       inkscape:export-ydpi="191.61717"><tspan
+         sodipodi:role="line"
+         id="tspan4246"
+         x="58.57143"
+         y="580.93359">Rain (mm):</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="59.285713"
+       y="614.505"
+       id="text4220"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="191.61717"
+       inkscape:export-ydpi="191.61717"><tspan
+         sodipodi:role="line"
+         id="tspan4238"
+         x="59.285713"
+         y="614.505">Dew Point:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4224"
+       y="535.93359"
+       x="197.85713"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="191.61717"
+       inkscape:export-ydpi="191.61717"><tspan
+         sodipodi:role="line"
+         id="tspan4244"
+         x="197.85713"
+         y="535.93359">70%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="207.14285"
+       y="581.64795"
+       id="text4228"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="191.61717"
+       inkscape:export-ydpi="191.61717"><tspan
+         sodipodi:role="line"
+         id="tspan4248"
+         x="207.14285"
+         y="581.64795">0.8</tspan><tspan
+         sodipodi:role="line"
+         x="207.14285"
+         y="604.14795"
+         id="tspan4148" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4232"
+       y="614.50507"
+       x="204.28572"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="191.61717"
+       inkscape:export-ydpi="191.61717"><tspan
+         sodipodi:role="line"
+         id="tspan4250"
+         x="204.28572"
+         y="614.50507">8.6</tspan></text>
+    <text
+       inkscape:export-ydpi="191.61717"
+       inkscape:export-xdpi="191.61717"
+       sodipodi:linespacing="125%"
+       id="text3349"
+       y="632.505"
+       x="59.285713"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="632.505"
+         x="59.285713"
+         id="tspan3351"
+         sodipodi:role="line">Aldinga</tspan></text>
+  </g>
+</svg>
